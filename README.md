@@ -19,3 +19,16 @@ axis(1)
 
 plotRanges(ir)
 ``` 
+##### this is pyhton code
+
+```python
+
+import numpy
+import scipy
+
+
+```
+
+
+
+
